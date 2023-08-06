@@ -27,7 +27,7 @@ This interactive web application provides a visual representation of the world m
 ## Technologies Used
 
 - HTML5, CSS3, and JavaScript for the frontend development.
-- [Time Zone API](https://timezone.abstractapi.com) for retrieving real-time time zone data.
+- [Time Zone API](https://www.abstractapi.com/) for retrieving real-time time https://www.abstractapi.com/zone data.
 
 
 
